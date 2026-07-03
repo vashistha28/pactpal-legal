@@ -6,6 +6,7 @@ linked from the store listings.
 
 - Privacy Policy → `/privacy/`
 - Terms of Service → `/terms/`
+- Delete your account → `/delete-account/` (Play's "delete without reinstall" URL)
 
 **Source of truth:** the canonical copy lives in the app repo at
 `packages/core/src/shared/legal.ts` (rendered in-app) with long-form mirrors in
